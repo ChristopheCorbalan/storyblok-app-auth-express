@@ -1,0 +1,30 @@
+{
+  "name": "storyblok-app-auth-express",
+  "version": "1.0.0",
+  "description": "A straight forward way to use express with Storyblok Apps",
+  "main": "lib/module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blackslash333/storyblok-app-auth-express.git"
+  },
+  "author": "Christophe Corbalan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Blackslash333/storyblok-app-auth-express/issues"
+  },
+  "homepage": "https://github.com/Blackslash333/storyblok-app-auth-express#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "axios-auth-refresh": "^2.2.6",
+    "crypto-js": "^4.0.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "grant-express": "^5.1.1",
+    "qs": "^6.9.4",
+    "storyblok-js-client": "^2.5.0",
+    "uuid": "^3.4.0"
+  }
+}
