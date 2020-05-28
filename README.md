@@ -4,7 +4,7 @@
 [![npm](https://img.shields.io/npm/dt/storyblok-app-auth-express.svg?style=for-the-badge)](https://www.npmjs.com/package/storyblok-app-auth-express)
 [![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge)](http://standardjs.com)
 
-> A straight forward way to use express with Storyblok Apps
+> A straight forward way to use Express with Storyblok Apps
 
 ## Requirements
 
