@@ -17,8 +17,8 @@ Just require the package and use it as a middleware in your Express App.
 ```js
 const express = require('express');
 const storyblokAuth = require('storyblok-app-auth-express');
-
 const app = express();
+
 app.use(storyblokAuth({
   client_id: '',
   client_secret: '',
@@ -26,11 +26,11 @@ app.use(storyblokAuth({
 }));
 
 app.get('/', async (req, res) => {
-  try  {
+  try {
     const response = await req.storyblok.get('oauth/user_info');
     res.send(`Hello ${response.data.user.friendly_name}!`);
   } catch (e) {
-    res.json({ error: e.message  });
+    res.json({ error: e.message });
   }
 });
 
