@@ -1,8 +1,8 @@
 # Storyblok App Auth (Express)
 
-[![npm (scoped with tag)](https://img.shields.io/npm/v/storyblok-app-auth-express/latest.svg?style=flat-square)](https://www.npmjs.com/package/storyblok-app-auth-express)
-[![npm](https://img.shields.io/npm/dt/storyblok-app-auth-express.svg?style=flat-square)](https://www.npmjs.com/package/storyblok-app-auth-express)
-[![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com)
+[![npm (scoped with tag)](https://img.shields.io/npm/v/storyblok-app-auth-express/latest.svg?style=for-the-badge)](https://www.npmjs.com/package/storyblok-app-auth-express)
+[![npm](https://img.shields.io/npm/dt/storyblok-app-auth-express.svg?style=for-the-badge)](https://www.npmjs.com/package/storyblok-app-auth-express)
+[![js-standard-style](https://img.shields.io/badge/code_style-standard-brightgreen.svg?style=for-the-badge)](http://standardjs.com)
 
 > A straight forward way to use express with Storyblok Apps
 
