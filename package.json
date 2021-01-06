@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Blackslash333/storyblok-app-auth-express#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-auth-refresh": "^2.2.6",
     "crypto-js": "^4.0.0",
     "express": "^4.17.1",
